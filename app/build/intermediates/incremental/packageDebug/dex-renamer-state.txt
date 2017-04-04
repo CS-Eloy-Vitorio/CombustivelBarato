@@ -1,0 +1,7 @@
+#Mon Apr 03 16:22:02 BRT 2017
+base.0=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b453ec09257cfdb72ba17693dac523ab115d930b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c16941ba03f5db908e5838fa3a0bb6b9a222a93f/classes.dex
+base.1=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c16941ba03f5db908e5838fa3a0bb6b9a222a93f
+file.0=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b453ec09257cfdb72ba17693dac523ab115d930b/classes.dex

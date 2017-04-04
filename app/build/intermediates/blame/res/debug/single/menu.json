@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/res/merged/debug/menu/combustivel_barato_main.xml",
+        "source": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/menu/combustivel_barato_main.xml"
+    },
+    {
+        "merged": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/res/merged/debug/menu/comparativo.xml",
+        "source": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/menu/comparativo.xml"
+    },
+    {
+        "merged": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/res/merged/debug/menu/previsao_distancia.xml",
+        "source": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/menu/previsao_distancia.xml"
+    },
+    {
+        "merged": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/res/merged/debug/menu/previsao_gastos.xml",
+        "source": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/menu/previsao_gastos.xml"
+    }
+]

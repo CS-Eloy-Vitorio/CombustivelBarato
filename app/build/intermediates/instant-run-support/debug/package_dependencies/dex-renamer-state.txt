@@ -1,0 +1,4 @@
+#Sun Apr 02 01:15:51 BRT 2017
+base.0=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_1de2d182dcf1a0d96f27d42063f25758b39fd6de
+renamed.0=classes.dex
+file.0=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_1de2d182dcf1a0d96f27d42063f25758b39fd6de/classes.dex

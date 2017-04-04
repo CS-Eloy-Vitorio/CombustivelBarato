@@ -1,0 +1,391 @@
+[
+    {
+        "outputFile": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 52,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 50,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 55,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 55,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 87,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 87,
+                        "endOffset": 1105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 54,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 54,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 52,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 968,
+                        "endColumn": 52,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 74,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 74,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 73,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 73,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 71,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 71,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endColumn": 75,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 75,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 41,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 41,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 66,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 66,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 78,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 78,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 82,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endColumn": 82,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endColumn": 56,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 56,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 54,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 54,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

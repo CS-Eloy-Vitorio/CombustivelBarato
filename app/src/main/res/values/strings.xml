@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Combustivel Barato</string>
+    <string name="introducao">Informe o abastecimento - Gasolina:</string>
+    <string name="introducao1">Informe o abastecimento - Álcool:</string>
+    <string name="action_settings">Settings</string>
+    <string name="gasolina">Gasolina (L) - R$</string>
+    <string name="alcool">Álcool (L) - R$</string>
+    <string name="verificar">Verificar Economia</string>
+    <string name="limpar">Limpar</string>
+    <string name="valorabastecidogasolina">Valor Abastecido Gasolina - R$</string>
+    <string name="kmpercorridogasolina">Km Percorrido com Gasolina</string>
+    <string name="kmpercorridoalcool">Km Percorrido com Álcool</string>
+    <string name="valorabastecidoalcool">Valor Abastecido Álcool - R$</string>
+    <string name="title_activity_comparativo">Comparativo</string>
+    <string name="voltartelaprincipal">Voltar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="combustivelrendimento">Combustível que mais rendeu km/litro:</string>
+
+</resources>
