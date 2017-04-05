@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Apr 03 16:22:02 BRT 2017
+#Wed Apr 05 17:39:39 BRT 2017
 2.base=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b453ec09257cfdb72ba17693dac523ab115d930b
 5.file=/Users/eloyvitorio/StudioProjects/CombustivelBarato/app/build/intermediates/res/resources-debug.ap_/res/menu/previsao_distancia.xml
 5.set=ANDROID_RESOURCE
